@@ -1,0 +1,15 @@
+build
+# Java / Spring Boot
+target/
+*.log
+*.class
+
+# Flutter
+.build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# IDE
+.vscode/
+.idea/
